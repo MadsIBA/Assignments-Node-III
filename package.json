@@ -1,0 +1,15 @@
+{
+  "name": "iii0",
+  "version": "1.0.0",
+  "description": "Assigment Node 3 III.0",
+  "main": "main.js",
+  "scripts": {
+    "pretest": "npm install",
+    "test": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^1.4.0"
+  }
+}
